@@ -17,8 +17,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "global-and-workspace-state-editor.helloWorld",
-        "title": "Hello World"
+        "command": "gwse.openWorkspaceStateEditor",
+        "title": "Open workspaceState Editor"
       }
     ]
   },
